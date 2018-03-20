@@ -1,9 +1,9 @@
 a=raw_input()
 if a.isdigit():
 	if(int(a)%4==0):
-		print"Yes"
+		print"yes"
 	else:
-		print"No"
+		print"no"
 else:
 	print"Invalid Input"
 
